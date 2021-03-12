@@ -1,0 +1,9 @@
+C:\Users\divak\source\repos\CCDays.Konfhub.MiddlewareLibrary\bin\Release\netcoreapp3.1\CCDays.Konfhub.MiddlewareLibrary.deps.json
+C:\Users\divak\source\repos\CCDays.Konfhub.MiddlewareLibrary\bin\Release\netcoreapp3.1\CCDays.Konfhub.MiddlewareLibrary.dll
+C:\Users\divak\source\repos\CCDays.Konfhub.MiddlewareLibrary\bin\Release\netcoreapp3.1\CCDays.Konfhub.MiddlewareLibrary.pdb
+C:\Users\divak\source\repos\CCDays.Konfhub.MiddlewareLibrary\obj\Release\netcoreapp3.1\CCDays.Konfhub.MiddlewareLibrary.csprojAssemblyReference.cache
+C:\Users\divak\source\repos\CCDays.Konfhub.MiddlewareLibrary\obj\Release\netcoreapp3.1\CCDays.Konfhub.MiddlewareLibrary.AssemblyInfoInputs.cache
+C:\Users\divak\source\repos\CCDays.Konfhub.MiddlewareLibrary\obj\Release\netcoreapp3.1\CCDays.Konfhub.MiddlewareLibrary.AssemblyInfo.cs
+C:\Users\divak\source\repos\CCDays.Konfhub.MiddlewareLibrary\obj\Release\netcoreapp3.1\CCDays.Konfhub.MiddlewareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\divak\source\repos\CCDays.Konfhub.MiddlewareLibrary\obj\Release\netcoreapp3.1\CCDays.Konfhub.MiddlewareLibrary.dll
+C:\Users\divak\source\repos\CCDays.Konfhub.MiddlewareLibrary\obj\Release\netcoreapp3.1\CCDays.Konfhub.MiddlewareLibrary.pdb
